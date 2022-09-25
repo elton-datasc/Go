@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 )
-
+// varivável iniciada e não instanciada sempre terá valor zero
 var a int
 var b float
 var c string
